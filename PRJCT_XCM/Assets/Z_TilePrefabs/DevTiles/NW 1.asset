@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 266507c787fb43b4d92227a3cec3c2a0, type: 3}
+  m_Name: NW 1
+  m_EditorClassIdentifier: 
+  tileEffect: 0
+  gridBase: {fileID: 2561887291247243236, guid: 94ede0126af41d4438da0cc3793032d6,
+    type: 3}
+  northernObjects:
+  - {fileID: 1181009303075125929, guid: af87e1ef061fae8458753323ddd1ce0d, type: 3}
+  northernCover: 1
+  easternObjects: []
+  easternCover: 0
+  southernObjects: []
+  southernCover: 0
+  westernObjects:
+  - {fileID: 1181009303075125929, guid: af87e1ef061fae8458753323ddd1ce0d, type: 3}
+  westernCover: 1
